@@ -1,4 +1,3 @@
 <?php
-	echo "Hello SaCode! <br>";
-	echo 2+4;
+	echo "Hello SaCode!";
 ?>
