@@ -1,2 +1,2 @@
-# sacode-phpii-project01-NIck
+# sacode-phpii-project01-Nick
 Introduction to PHP Programming Language
